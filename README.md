@@ -1,10 +1,16 @@
 # Pong-Game
-Um jogo de clássico 2d de Ping-Pong, feito usando JS puro no P5 JS editor.
 
-Link para jogar: https://editor.p5js.org/andersonalmeida1008/full/2K9vmytBG
+**Pong-Game** é um jogo clássico 2D de Ping-Pong, desenvolvido usando JavaScript puro no ambiente P5 JS editor.
 
-Link para visualizar o código no P5 Js editor: https://editor.p5js.org/andersonalmeida1008/sketches/2K9vmytBG
+## Links:
 
-Link para indexar o game: <iframe src="https://editor.p5js.org/andersonalmeida1008/full/2K9vmytBG"></iframe
+- **Jogar**: [Clique aqui para jogar](https://editor.p5js.org/andersonalmeida1008/full/2K9vmytBG)
   
-Esse foi o meu primeiro projeto desenvolvido na Alura, utilizando principios lógicos com Javascript, espero que goste! :)
+- **Visualizar Código**: [Clique aqui para ver o código no P5 Js editor](https://editor.p5js.org/andersonalmeida1008/sketches/2K9vmytBG)
+  
+- **Indexar o Game**: 
+  ```html
+  <iframe src="https://editor.p5js.org/andersonalmeida1008/full/2K9vmytBG"></iframe>
+  ```
+
+**Observação**: Esse foi o meu primeiro projeto desenvolvido na Alura, utilizando princípios lógicos com JavaScript. Espero que gostem e se divirtam jogando! :)
